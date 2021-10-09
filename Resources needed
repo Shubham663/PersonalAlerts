@@ -1,0 +1,11 @@
+python-telegram-bot :        pip install python-telegram-bot
+#for making communication to the bot possible
+
+python decouple     :        pip install python-decouple
+# for getting environment variables into your code easily
+
+requests            :        pip install requests
+#for making requests to websites for the content
+
+beautifulsoup4      :        pip install beautifulsoup4
+# for parsing HTML data extracted from website and operating on it.
