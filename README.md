@@ -10,4 +10,3 @@ Provides alerts on telegram for the cricket updates taking place on a website.
   2.4. Save the access token API that you get on bot creation and save it as API_KEY in an ".env" file in your project's root.
 3. run the application using python alerts.py
 4. interact with bot using /start, at which it will start getting updates from https://www.espncricinfo.com/ for the first live match that it encounters.
-5. For demo go to https://youtu.be/WQiV-A4eu8k
